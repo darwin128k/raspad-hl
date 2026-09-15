@@ -1,6 +1,4 @@
-# hl
-
-`hl.exe` is a thin `WinMain` over `HlLauncher_Run` in `src/launcher.cpp` (mutex, filesystem, `hw.dll` / `sw.dll`, `IEngineAPI::Run`). Other programs may compile those two files without this repo knowing about them.
+# raspad-hl
 
 `hl.exe` is a thin `WinMain` over `HlLauncher_Run` in `src/launcher.cpp` (mutex, filesystem, `hw.dll` / `sw.dll`, `IEngineAPI::Run`). Other programs may compile those two files without this repo knowing about them.
 
